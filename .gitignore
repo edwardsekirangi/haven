@@ -43,3 +43,7 @@ next-env.d.ts
 .clerk/
 # clerk configuration (can include secrets)
 .history/
+
+pnpm-lock.yaml
+haven-output.txt
+haven-output.md
